@@ -1,3 +1,4 @@
 # MyFirstRepository
 
-And i really like it
+This is my first reppository
+And I really like it
