@@ -1,0 +1,439 @@
+    1  git
+    2  wsl.exe
+    3  wsl[command]
+    4  wsl [command]
+    5  sudo apt install wsl
+    6  wsl[commanc]
+    7  wsl [command]
+    8  bach -c
+    9  bash -c
+   10  wslconfig.exe
+   11  wslconfig/l
+   12  wslconfig /l
+   13  wslconfig.exe /l
+   14  git
+   15  ls
+   16  touch main.js
+   17  ls
+   18  nano main.js 
+   19  node
+   20  sudo apt install nodejs
+   21  ls
+   22  rm main.js
+   23  ls
+   24  md main.js
+   25  touch main.js
+   26  rm main.js
+   27  mkdir main.js
+   28  ls
+   29  rm main.js
+   30  rmdir main.js
+   31  mkdir main.js
+   32  ls
+   33  ls-a
+   34  ls -a
+   35  rmdir main.js
+   36  ls
+   37  mkdir main.js
+   38  nano main.js
+   39  ls
+   40  nano main.js
+   41  rmdir main.js
+   42  mkdir main.js
+   43  cd main.js
+   44  cd..
+   45  cd ..
+   46  rm main.js
+   47  rmdir main.js
+   48  ls
+   49  ls -a
+   50  touch main.js
+   51  nano main.js
+   52  rm main.js
+   53  ls
+   54  touch main.js
+   55  mkdir projekt1
+   56  ls
+   57  rm main.js
+   58  ls
+   59  cd projekt1
+   60  git init
+   61  touch plik.txt
+   62  ls
+   63  git add plik.txt
+   64  git status
+   65  git commit
+   66  git config  --global user.email "smx2979@gmail.com"
+   67  git config --global user.name "AEMIR123"
+   68  git commit
+   69  git log --oneline
+   70  git log
+   71  git branch 
+   72  git branch dev
+   73  git branch
+   74  git checkout dev
+   75  git branch
+   76  nano plik.txt 
+   77  git status
+   78  git add .
+   79  git status
+   80  git commit -m "Modified a text file"
+   81  git log 
+   82  git log --oneline
+   83  git log --oneline --graph
+   84  git checkout master
+   85  nano plik.txt 
+   86  git add .
+   87  git status
+   88  git commit -m "text file filled with F's"
+   89  git log --oneline --graph
+   90  git checkout dev
+   91  cat plik.txt 
+   92  git log --oneline --graph
+   93  git branch -a
+   94  -v
+   95  git versions
+   96  git --help
+   97  ls -a
+   98  rm -r .git
+   99  y
+  100  ls -a
+  101  rm -r
+  102  rm --help
+  103  rm -r
+  104  ls
+  105  rm /*/
+  106  rm ./*
+  107  ls
+  108  cd ..
+  109  rm -a
+  110  rm --help
+  111  rm --a
+  112  rm ./*
+  113  rmdir .
+  114  rm .
+  115  rmdir projekt1
+  116  ls
+  117  ls -a
+  118  ls -l
+  119  cd [.local]
+  120  cd [local]
+  121  mkdir staszek.txt
+  122  cd [staszek]
+  123  ls
+  124  cd [staszek.txt]
+  125  ls
+  126  cd [staszek.txt]
+  127  cat staszek.txt
+  128  ls
+  129  cd -
+  130  cd /
+  131  ls
+  132  rmdir staszek.txt
+  133  ls
+  134  rmdir staszek.txt
+  135  cd ~
+  136  ls -l
+  137  ls -a
+  138  ls -al
+  139  cd ,local
+  140  cd .local
+  141  cd -
+  142  ls
+  143  clear
+  144  nano First.sh
+  145  bash First.sh
+  146  nano While.sh
+  147  bash While.sh
+  148  nano While.sh
+  149  bash First.sh
+  150  bash While.sh
+  151  nano While.sh
+  152  bash While.sh
+  153  nano While.sh
+  154  bash While.sh
+  155  clear
+  156  bash While.sh
+  157  nano While.sh
+  158  bash While.sh
+  159  nano While.sh
+  160  bash While.sh
+  161  nano While.sh
+  162  bash While.sh
+  163  nano While .sh
+  164  rm While .sh
+  165  ls
+  166  While.sh
+  167  nano While.sh
+  168  bash While.sh
+  169  clear
+  170  nano While.sh
+  171  bash While.sh
+  172  nano While.sh
+  173  bash While.sh
+  174  nano For.sh
+  175  bash For.sh
+  176  nano For.sh
+  177  nano Read.sh
+  178  bash read.sh
+  179  bash Read.sh
+  180  bash.sh
+  181  bash Read.sh
+  182  clear
+  183  nano Case.sh
+  184  bash Case.sh
+  185  node Check.sh
+  186  nano Check.sh
+  187  ls
+  188  cd Check.sh
+  189  ls -a
+  190  cd local.
+  191  cd .local
+  192  cd -
+  193  bash Check.sh
+  194  nano Chaeck.sh
+  195  ls
+  196  nano Check.sh
+  197  bash Chesck.sh
+  198  bash Check.sh
+  199  nano Check.sh
+  200  bash Chesk.sh
+  201  bash check.sh
+  202  bash Check.sh
+  203  ls
+  204  nano ReadF.sh
+  205  bash ReadF.sh
+  206  nano ReadF.sh
+  207  bash ReadF.sh
+  208  nano ReadF.sh
+  209  cat Slowa.txt
+  210  bash ReadF.txt
+  211  bash ReadF.sh
+  212  nano ReadF.sh
+  213  bash ReadF.sh
+  214  nano ReadF.sh
+  215  bash ReadF.sh
+  216  nano ReadF.sh
+  217  clear
+  218  cat Slowa.txt
+  219  bash ReadF.sh
+  220  nano ReadF,sh
+  221  nano Read.sh
+  222  nano ReadF.sh
+  223  bash ReadF.sh Slowa.txt
+  224  bash ReadF.sh
+  225  bash ReadF.sh /home/stanley/Slowa.txt
+  226  nano TestFinder.sh
+  227  bash TestFinder.sh
+  228  nano TestFinder.sh
+  229  bash TestFinder.sh
+  230  nano TestFinder.sh
+  231  bash TestFinder.sh
+  232  bash TestFinder.sh /home/stanley/Slowa.txt
+  233  nano TestFinder.sh
+  234  bash TestFinder.sh /home/stanley/Slowa.txt
+  235  nano TestFinder.sh
+  236  bash TestFinder.sh /home/stanley/Slowa.txt
+  237  nano TestFinder.sh
+  238  bash TestFinder.sh
+  239  bash TestFinder.sh /home/stanley/Slowa.txt
+  240  nano TestFinder.sh
+  241  ls
+  242  nano For.sh
+  243  nano Check.sh
+  244  nano TestFinder.sh
+  245  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  246  nano TestFinder.sh
+  247  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  248  nano TestFinder.sh
+  249  bash TestFinder.sh
+  250  nano TestFinder.sh
+  251  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  252  nano TestFinder.sh
+  253  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  254  nano TestFinder.sh
+  255  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  256  nano TestFinder.sh
+  257  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  258  nano TestFinder.sh
+  259  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  260  nano TestFinder.sh
+  261  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  262  nano TestFinder,sh
+  263  nano TestFinder.sh
+  264  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  265  bash TestFinder.sh /home/stanley/Slowa.txt kurczak
+  266  node TestFinder.sh
+  267  nano TestFinder.sh
+  268  bash TestFinder.sh /home/stanley/Slowa.txt kurczak
+  269  clear
+  270  ls
+  271  node TestFinder.sh
+  272  nano TestFinder.sh
+  273  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  274  nano TestFinder.sh
+  275  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  276  nano TestFinder.sh
+  277  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  278  nano TestFinder.sh
+  279  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  280  nano TestFinder.sh
+  281  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  282  anno TestFinder.sh
+  283  nano TestFinder.sh
+  284  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  285  nano TestFinder.sh
+  286  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  287  nano TestFinder.sh
+  288  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  289  nano TestFinder
+  290  nano TestFinder.sh
+  291  nano TestFinder.sh /home/stanley/Slowa.txt ogorek
+  292  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  293  nano TestFinder.sh
+  294  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  295  nano TestFinder.sh
+  296  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  297  nano TestFinder.sh
+  298  ls
+  299  Check.sh
+  300  nano Check.sh
+  301  nano TestFinder.sh
+  302  nano TestFinder.sh /home/stanley/Slowa.txt ogorek
+  303  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  304  nano TestFinder.sh
+  305  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  306  nano TestFinder.sh
+  307  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  308  nano TestFinder.sh
+  309  bash TestFinde.sh /home/stanley/Slowa.txt ogorek
+  310  node TestFinder.sh
+  311  bash TestFinder.sh /home/stanley/Slowa.txt ogorek
+  312  bash TestFinder.sh /home/stanley/sowa.txt ogorek
+  313  nano TestFinder.sh
+  314  nano TestFinder.fs
+  315  nano TestFinder.sh
+  316  ls
+  317  bash TextFinder.sh /home/stanley/Slowa.txt ogorek
+  318  mkdir one
+  319  mkdir two
+  320  ls
+  321  nano tasks.txt
+  322  ls
+  323  cd "/home/stanley/FirstRepository"
+  324  git clone "https://github.com/AEMIR123/MyFirstRepository.git"
+  325  cat /MyFirstRepository
+  326  ls
+  327  cat MyFirstRepository
+  328  ls
+  329  cd MyFirstRepository
+  330  mkdir one
+  331  mkdir two
+  332  ls
+  333  cd
+  334  cd FirstRepository
+  335  rmdir one
+  336  ls
+  337  cd
+  338  rmdir one
+  339  rmdir two
+  340  ls
+  341  cd FirstRepository
+  342  cd MyFirstRepository
+  343  cmd
+  344  taskslist /v txt > tasks.txt
+  345  tasklist /v txt > tasks.txt
+  346  top
+  347  to -n 1 > tasks.txt
+  348  top -n 1 > tasks.txt
+  349  ls
+  350  nano tasks.txt
+  351  top
+  352  nano tasks.txt
+  353  top -n 1
+  354  mkdir Files
+  355  cd Files
+  356  mkdir FileOne
+  357  mkdir FileTwo
+  358  cd -
+  359  mv tasks.txt /home/stanley/FirstRepository/MyFirstRepository/Files/FileOne
+  360  ls
+  361  cd Files
+  362  cd FileOne
+  363  ls
+  364  mv tasks.txt /home/stanley/FirstRepository/MyFirstRepository/Files/FileTwo
+  365  ls
+  366  chmod 400 tasks.txt
+  367  cd -
+  368  cd FileTwo
+  369  ls
+  370  chmd 400 Tasks.txt
+  371  chmod 400 Tasks.txt
+  372  chmod 400 tasks.txt
+  373  ls
+  374  nano tasks.txt
+  375  chmod 200 tasks.txt
+  376  nano tasks.txt
+  377  chmod 600 taks.txt
+  378  chmod 600 tasks.txt
+  379  nano tasks.txt
+  380  chmod 400 taksx.txt
+  381  chmod 400 tasks.txt
+  382  ls -l
+  383  ls
+  384  cd -
+  385  cd FileTwo
+  386  cd -
+  387  FileOne
+  388  cd FileOne
+  389  echo "><your_ipv4_address>" > IPv4.txt
+  390  nano IPv4.txt
+  391  ifconfig | grep inet
+  392  sudo apt install net-tools
+  393  ifconfig
+  394  ifconfig | grep inet
+  395  inet
+  396  ifconfig
+  397  inet
+  398  nano IPv4.txt
+  399  ifconfig > IPv6.txt
+  400  nano IPv^.txt
+  401  nano IPn6.txt
+  402  nano IPv6.txt
+  403  ifconfig > IPv4.txt
+  404  nano IPv4.txt
+  405  chmod 000 IPv4.txt
+  406  chmod 000 IPv6.txt
+  407  history
+  408  cd -
+  409  history > history.txt
+  410  nano history.txt
+  411  cd FirstRepository
+  412  cd MyFirstRepository
+  413  ls
+  414  cd Files
+  415  mv history.txt /home/stanley/FirstRepository/MyFirstRepository
+  416  cd -
+  417  mv history.txt /home/stanley/FirstRepository/MyFirstRepository/Files
+  418  ls
+  419  cd FirstRepository
+  420  git add .
+  421  cd MyFirstRepository
+  422  git
+  423  git add .
+  424  ls
+  425  git ls
+  426  git add
+  427  cd Files
+  428  cd FileOne
+  429  rm IPv4.txt
+  430  ls
+  431  chmod 400 IPv4.txt
+  432  rm IPv4.txt
+  433  chmod 600 IPv4.txt
+  434  rm IPv4.txt
+  435  chmod 600 IPv4.txt
+  436  chmod 600 IPv6.txt
+  437  rm IPv6.txt
+  438  cd -
+  439  history > history.txt
